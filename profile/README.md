@@ -42,4 +42,4 @@ Vi mødes til events, deler erfaringer, og skaber et sted hvor man kan nørde, l
   ```text
   https://wpninjas.dk
 - Meetup:
-  - [https://meetup.com](https://www.meetup.com/wpninjasdk)
+  - [www.meetup.com/wpninjasdk](https://www.meetup.com/wpninjasdk)
