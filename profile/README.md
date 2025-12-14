@@ -3,6 +3,14 @@
 Velkommen til GitHub-repositoriet for **Workplace Ninjas User Group Denmark** 🎉  
 Her samler vi materialer fra vores meetups og community-aktiviteter – især **slides**, **session-noter** og **relevante links**.
 
+EN:
+Workplace Ninja User Group Denmark is a Danish User Group with a focus on Microsoft 365, Microsoft Security, Microsoft Cloud Productivity, as well as surrounding technologies.
+
+The User Group is free for anyone and everyone interested in Microsoft technologies such as Microsoft 365, Microsoft Security, Modern Workplace, Office 365, Microsoft Teams, Endpoint Manager, and Microsoft Azure.
+
+The goal of this group is to inform, educate and share knowledge, in areas related to the technologies above.
+The meetings will be held as online meetings.
+
 ## Indhold i dette GitHub repo
 
 Typisk finder du:
