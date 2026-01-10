@@ -36,3 +36,17 @@ Recommended organization (and how to find things):
 Example:
 
 `2025-03-12 - WP Ninja DK Meetup - Copilot Governance - Peter.ext`
+
+---
+
+## Who are WP Ninja DK?
+
+Workplace Ninjas DK is a Danish community for everyone working with Microsoft 365 and the modern workplace — for example:
+
+- Microsoft 365 / Teams / SharePoint / OneDrive
+- Copilot, AI, and governance
+- Security & Compliance (Purview, Defender, Entra)
+- Endpoint Management (Intune) and Identity
+
+We meet at events, share real-world experience, and create a place to learn, geek out, and network — **no matter your skill level**.
+
