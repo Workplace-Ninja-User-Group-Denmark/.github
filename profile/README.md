@@ -22,3 +22,17 @@ Typically, this repository contains:
 
 The structure may evolve over time, but we aim to keep it easy to find content **per event and date**.
 
+---
+
+## How to navigate the content
+
+Recommended organization (and how to find things):
+
+- Materials are usually stored in folders **per year** and/or **per event**
+- Filenames may follow a pattern like:
+
+  `YYYY-MM-DD - EventName - SessionTitle - Speaker.ext`
+
+Example:
+
+`2025-03-12 - WP Ninja DK Meetup - Copilot Governance - Peter.ext`
