@@ -1,53 +1,10 @@
 # Workplace Ninjas User Group Denmark (WP Ninja DK)
 
-Velkommen til GitHub-repositoriet for **Workplace Ninjas User Group Denmark** 🎉  
-Her samler vi materialer fra vores meetups og community-aktiviteter – især **slides**, **session-noter** og **relevante links**.
+Welcome to the GitHub repository for **Workplace Ninjas User Group Denmark** 🎉  
+Here we collect materials from our meetups and community activities — especially **slides**, **session/speaker notes**, and **useful links**.
 
-EN:
-Workplace Ninja User Group Denmark is a Danish User Group with a focus on Microsoft 365, Microsoft Security, Microsoft Cloud Productivity, as well as surrounding technologies.
+Workplace Ninja User Group Denmark is a Danish user group focused on **Microsoft 365**, **Microsoft Security**, **Microsoft Cloud Productivity**, and related technologies.
 
-The User Group is free for anyone and everyone interested in Microsoft technologies such as Microsoft 365, Microsoft Security, Modern Workplace, Office 365, Microsoft Teams, Endpoint Manager, and Microsoft Azure.
+The user group is **free and open to anyone** interested in Microsoft technologies such as **Microsoft 365**, **Modern Workplace**, **Office 365**, **Microsoft Teams**, **Endpoint Manager (Intune)**, **Microsoft Azure**, and more.
 
-The goal of this group is to inform, educate and share knowledge, in areas related to the technologies above.
-The meetings will be held as online meetings.
-
-## Indhold i dette GitHub repo
-
-Typisk finder du:
-
-- **📊 Slides fra sessions** (PowerPoint/PDF)
-- **📝 Session-noter / speaker-noter** (Markdown)
-- **🔗 Ressourcer og links** (fx Microsoft docs, blogposts, værktøjer)
-- **📁 Event-materiale** (agendaer, beskrivelser, evt. billeder)
-
-> Struktur kan variere lidt over tid, men vi forsøger at holde det nemt at finde materialer pr. event og dato.
-
-## Sådan navigerer du materialet
-
-Anbefalet måde at organisere (og finde) indhold på:
-
-- Materialer ligger ofte i mapper pr. **år** og/eller **event**
-- Filnavne kan fx følge:
-  - `YYYY-MM-DD - Eventnavn - Sessiontitel - Speaker.ext`
-
-Eksempel:
-- `2025-03-12 - WP Ninja DK Meetup - Copilot Governance - Peter.ext`
-
-## Hvem er WP Ninja DK?
-
-**Workplace Ninjas DK** er et dansk community for alle, der arbejder med Microsoft 365 og modern workplace—fx:
-
-- Microsoft 365 / Teams / SharePoint / OneDrive
-- Copilot, AI og governance
-- Security & Compliance (Purview, Defender, Entra)
-- Endpoint Management (Intune) og Identity
-
-Vi mødes til events, deler erfaringer, og skaber et sted hvor man kan nørde, lære og netværke – uanset niveau.
-
-## Find os her
-
-- Website:
-  ```text
-  https://wpninjas.dk
-- Meetup:
-  - [www.meetup.com/wpninjasdk](https://www.meetup.com/wpninjasdk)
+Our goal is to **inform, educate, and share knowledge** across these areas. Most meetings are held as **online events**.
