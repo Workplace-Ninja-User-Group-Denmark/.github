@@ -5,7 +5,7 @@ Here we collect materials from our meetups and community activities, especially 
 
 Workplace Ninja User Group Denmark is a Danish user group focused on **Microsoft 365**, **Microsoft Security**, **Microsoft Cloud Productivity**, and related technologies.
 
-The user group is **free and open to anyone** interested in Microsoft technologies such as **Microsoft 365**, **Modern Workplace**, **Office 365**, **Microsoft Teams**, **Endpoint Manager (Intune)**, **Microsoft Azure**, and more.
+The user group is **free and open to anyone** interested in Microsoft technologies such as **Microsoft 365**, **Modern Workplace**, **Office 365**, **Microsoft Security**, **Microsoft Defender**, **Endpoint Manager (Intune)**, **Microsoft Teams**, **Microsoft Azure**, and more.
 
 Our goal is to **inform, educate, and share knowledge** across these areas. Most meetings are held as **online events**.
 
