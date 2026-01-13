@@ -1,7 +1,7 @@
 # Workplace Ninjas User Group Denmark (WP Ninja DK)
 
 Welcome to the GitHub repository for **Workplace Ninjas User Group Denmark** 🎉  
-Here we collect materials from our meetups and community activities — especially **slides**, **session/speaker notes**, and **useful links**.
+Here we collect materials from our meetups and community activities, especially **slides**, **session/speaker notes**, and **useful links**.
 
 Workplace Ninja User Group Denmark is a Danish user group focused on **Microsoft 365**, **Microsoft Security**, **Microsoft Cloud Productivity**, and related technologies.
 
