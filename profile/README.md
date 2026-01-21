@@ -9,7 +9,6 @@ The user group is **free and open to anyone** interested in Microsoft technologi
 
 Our goal is to **inform, educate, and share knowledge** across these areas. Most meetings are held as **online events**.
 
----
 
 ## What you’ll find in this GitHub repo
 
