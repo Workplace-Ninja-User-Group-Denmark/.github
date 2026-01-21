@@ -37,7 +37,7 @@ Example:
 
 `2025-03-12 - WP Ninja DK Meetup - Copilot Governance - Peter.ext`
 
----
+
 
 ## Who are WP Ninja DK?
 
@@ -50,7 +50,7 @@ Workplace Ninjas DK is a Danish community for everyone working with Microsoft 36
 
 We meet at events, share real-world experience, and create a place to learn, geek out, and network — **no matter your skill level**.
 
----
+-
 
 ## Find us here
 
